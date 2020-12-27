@@ -1,0 +1,11 @@
+{
+  "title": "felixoi.com Status Page",
+  "description": "Status page for all services provided by felixoi.com",
+  "systems": {
+    "items": {
+      "personalsite": {
+        "title": "Personal Website"
+      }
+    }
+  }
+}
