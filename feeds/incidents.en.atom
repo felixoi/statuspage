@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.felixoi.com</id>
+    <title>felixoi.com Status Page</title>
+    <updated>2020-12-27T23:20:48.693Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.felixoi.com"/>
+    <link rel="self" href="https://status.felixoi.com/feeds/incidents.en.atom"/>
+    <subtitle>Status page for all services provided by felixoi.com</subtitle>
+</feed>
