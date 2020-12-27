@@ -3,6 +3,7 @@ module.exports = {
   "name": "felixoi.com_status_page",
   "description": "Status page for all services provided by felixoi.com",
   "defaultLocale": "en",
+  "baseUrl": "https://status.felixoi.com",
   "locales": [
     {
       "code": "en",
