@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>felixoi.com Status Page</title>
         <link>https://status.felixoi.com</link>
         <description>Status page for all services provided by felixoi.com</description>
-        <lastBuildDate>Sun, 27 Dec 2020 23:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 00:05:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.felixoi.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Server Maintenance]]></title>
+            <link>https://status.felixoi.com/incidents/a0bba71a</link>
+            <guid>https://status.felixoi.com/incidents/a0bba71a</guid>
+            <pubDate>Sun, 27 Dec 2020 23:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p>During the given timeframe a server maintenance will be carried out.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

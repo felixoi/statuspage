@@ -1,1 +1,1 @@
-{"count":0,"page":1,"page_size":3,"total_pages":1,"periods":[]}
+{"count":1,"page":1,"page_size":3,"total_pages":1,"periods":[{"id":"2020-12","incidents":[{"id":"a0bba71a","title":"Server Maintenance","date":"2020-12-27T23:48:17.472Z","modified":"2020-12-28T00:05:33.872Z","scheduled":"2020-12-28T00:00:00.000Z","duration":30,"severity":"under-maintenance","affectedsystems":["personalsite"],"resolved":false,"content":"<p>During the given timeframe a server maintenance will be carried out.</p>\n<!--- language code: en -->\n"}],"order":1,"count":1}]}

@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.felixoi.com</id>
     <title>felixoi.com Status Page</title>
-    <updated>2020-12-27T23:52:50.819Z</updated>
+    <updated>2020-12-28T00:05:49.480Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.felixoi.com"/>
     <link rel="self" href="https://status.felixoi.com/feeds/incidents.en.atom"/>
     <subtitle>Status page for all services provided by felixoi.com</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Server Maintenance]]></title>
+        <id>https://status.felixoi.com/incidents/a0bba71a</id>
+        <link href="https://status.felixoi.com/incidents/a0bba71a"/>
+        <updated>2020-12-27T23:48:17.472Z</updated>
+        <content type="html"><![CDATA[<p>During the given timeframe a server maintenance will be carried out.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
 </feed>
