@@ -37,8 +37,8 @@ jobs:
         BRANCH: gh-pages
         FOLDER: dist
         CLEAN: true
-        GIT-CONFIG-NAME: 'felixoi.com Bot'
-        GIT-CONFIG-EMAIL: 'bot@felixoi.com'
+        GIT_CONFIG_NAME: 'felixoi.com Bot'
+        GIT_CONFIG_EMAIL: 'bot@felixoi.com'
         
     - uses: actions/cache@v2
       with:
