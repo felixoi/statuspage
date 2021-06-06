@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.felixoi.com</id>
     <title>felixoi.com Status Page</title>
-    <updated>2021-06-05T01:51:42.086Z</updated>
+    <updated>2021-06-06T01:44:58.406Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.felixoi.com"/>
     <link rel="self" href="https://status.felixoi.com/feeds/incidents.en.atom"/>
