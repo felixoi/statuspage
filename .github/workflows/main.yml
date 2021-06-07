@@ -33,12 +33,12 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.1.4
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: dist
-        CLEAN: true
-        GIT_CONFIG_NAME: 'felixoi.com Bot'
-        GIT_CONFIG_EMAIL: 'bot@felixoi.com'
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+        folder: dist
+        clean: true
+        git-config-name: 'felixoi.com Bot'
+        git-config-email: 'bot@felixoi.com'
         
     - uses: actions/cache@v2
       with:
