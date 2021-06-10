@@ -25,5 +25,16 @@ module.exports = {
         legal: "https://felixoi.com/legal"
       },
     },
+  },
+  ,
+  head: {
+    script: [
+      {
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        async: true,
+        defer: true,
+        'data-cf-beacon': '{"token": "4db68608a86940ff810649a89c051ab6"}',
+      },
+    ],
   }
 }
