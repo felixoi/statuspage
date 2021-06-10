@@ -32,7 +32,7 @@ module.exports = {
         src: 'https://static.cloudflareinsights.com/beacon.min.js',
         async: true,
         defer: true,
-        'data-cf-beacon': '{"token": "4db68608a86940ff810649a89c051ab6"}',
+        'data-cf-beacon': '{"token": "9401e7958919481e8a8639ebcacac422"}',
       },
     ],
   }
